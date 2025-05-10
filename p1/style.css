@@ -1,0 +1,14 @@
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(48, 48, 107);
+    color: rgb(253, 253, 9);
+}
+li{
+    display:inline-block;
+    font-size: 20px;
+    padding:5px;
+}
+container{
+    width:100%;
+}
